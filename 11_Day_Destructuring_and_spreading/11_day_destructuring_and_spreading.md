@@ -59,7 +59,7 @@ Destructuring is a way to unpack arrays, and objects and assigning to a distinct
   const names = ['Asabeneh', 'Brook', 'David', 'John']
   let [firstPerson, secondPerson, thirdPerson, fourth Person] = names
 
-  console.log(firstName, secondPerson,thirdPerson, fourthPerson)
+  console.log(firstPerson, secondPerson,thirdPerson, fourthPerson)
 ```
 
 ```sh
